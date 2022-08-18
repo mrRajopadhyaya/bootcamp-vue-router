@@ -1,0 +1,24 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Jhon Doe",
+            "address": "New york"
+        },
+        {
+            "id": 2,
+            "name": "Dustin Mark",
+            "address": "California"
+        },
+        {
+            "id": 3,
+            "name": "Will Smith",
+            "address": "Kathmandu"
+        },
+        {
+            "id": 4,
+            "name": "Mike tyson", 
+            "address": "Pokhara"
+        }
+    ]
+}
